@@ -15,4 +15,4 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![image]('image/Simulator Screen Shot - iPhone 13 Pro - 2022-02-28 at 21.50.57.png')
+![image]('Simulator Screen Shot - iPhone 13 Pro - 2022-02-28 at 21.50.57.png')
